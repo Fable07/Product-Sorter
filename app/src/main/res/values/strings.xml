@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">product sorter</string>
+    <string name="addprod">ADD PRODUCT</string>
+    <string name="prodname">Product Name</string>
+    <string name="price">Price</string>
+    <string name="food">Food</string>
+    <string name="drink">Drink</string>
+    <string name="other">Other</string>
+    <string name="add">Add</string>
+    <string name="allprod">All Products</string>
+    <string name="filfood">Filter Foods</string>
+    <string name="fildrink">Filter Drinks</string>
+    <string name="filother">Filter Others</string>
+    <string name="editdel">EDIT/DELETE PRODUCT</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="recid">Record ID</string>
+
+</resources>
